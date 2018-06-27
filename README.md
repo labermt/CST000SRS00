@@ -16,8 +16,8 @@ Instructions:
 - [*] 5. Review the git status of your local changes.  
 - [*] 6. Commit your changes using: git commit -m "Description of changes in this commit."  
 - [*] 7. Push your changes to your repository.  
-- [ ] 8. Perform a Pull Request (PR).  
-- [ ] 9. Confirm the Pull Request is available on GitHub for this repository.  
+- [*] 8. Perform a Pull Request (PR).  
+- [*] 9. Confirm the Pull Request is available on GitHub for this repository.  
 
 If you want to contribute to this repository, email me a message and a Pull Request updating the instructions to make them clearer.  
 
