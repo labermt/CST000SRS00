@@ -1,7 +1,7 @@
-Name: <Your name here>
+Name: Daniel Lee
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: No unresolved issues here.  
 
-Notes: The more concise and detailed the notes, the better the grade.  
+Notes: I was able to fork and then change the files as requested. Hopefully I'll get used to using Github again.  
 
 ###
