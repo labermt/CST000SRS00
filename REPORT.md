@@ -1,7 +1,7 @@
-Name: <Your name here>
+Name: Steven Parker
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: None
 
-Notes: The more concise and detailed the notes, the better the grade.  
+Notes: Solution built on Visual Studio 2017 and targeted Windows SDK 10.0.17134.0
 
 ###
