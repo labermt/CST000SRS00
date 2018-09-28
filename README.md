@@ -11,10 +11,10 @@ You must complete this task with a 100% score to pass this class.
 
 Specification:  
 
-- [ ] 0. Fork this repository.    
-- [ ] 1. Don't forget to **FORK this repository.**  DO NOT clone or copy!  
-- [ ] 2. Clone YOUR forked repository. Do not clone my repository.  
-- [ ] 3. Add your name and perform a Pull Request (PR).  
+- [x] 0. Fork this repository.    
+- [x] 1. Don't forget to **FORK this repository.**  DO NOT clone or copy!  
+- [x] 2. Clone YOUR forked repository. Do not clone my repository.  
+- [x] 3. Add your name and perform a Pull Request (PR).  
 - [ ] 4. Modify the local main.cpp by uncommenting the code to output "hello, world".  
 - [ ] 5. Build and run the program.  
 - [ ] 6. Update the REPORT.md file.  
