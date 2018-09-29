@@ -1,4 +1,4 @@
-Name: <Your name here>
+Name: Jamie Penner
 
 Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
 
