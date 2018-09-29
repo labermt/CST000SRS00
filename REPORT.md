@@ -1,4 +1,4 @@
-Name: <John Fittro>
+Name: John Fittro
 
 Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
 
