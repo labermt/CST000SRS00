@@ -1,7 +1,7 @@
-Name: <Your name here>
+Name: Jared Hofman
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: Could not build properly - Removed comment lines.
 
-Notes: The more concise and detailed the notes, the better the grade.  
+Notes: Removed comment lines to enable proper build.  
 
 ###
