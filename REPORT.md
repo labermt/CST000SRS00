@@ -1,7 +1,9 @@
-Name: <Your name here>
+Name: Curtis Twenge
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: None
 
-Notes: The more concise and detailed the notes, the better the grade.  
+Notes: This assignment was straight forward. I use TortiseGit for all interaction with GitHub.
+I was able to clone the forked repository, make a pull request, uncomment the line of code to cout hello world.
+I appreciate the clear and easy to follow instructions.
 
 ###
